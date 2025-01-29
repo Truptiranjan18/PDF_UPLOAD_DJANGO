@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pratice.views.rest_framework_simplejwt" />
+          <option value="school.views.rest_framework_simplejwt" />
+          <option value="school.models.hashed_password" />
+          <option value="school.views.IsPrincipal" />
+          <option value="School.views.rest_framework_simplejwt" />
+          <option value="School.serializers.rest_framework_simplejwt" />
+          <option value="School.views.RefreshToken" />
+          <option value="School.models.User" />
+          <option value="School.views.django_filters" />
+          <option value="pratice.serializers.user" />
+          <option value="rest_framework.request.get_host" />
+          <option value="pratice.views.django_rest_passwordreset" />
+          <option value="pratice.views.current_site" />
+          <option value="School.views.PasswordResetSerializer" />
+          <option value="School.views.today" />
+          <option value="School.views.background_task" />
+          <option value="School.serializers.ValidationError" />
+          <option value="School.views.EmailMessageSerializer" />
+          <option value="Acadix.views.filterdata" />
+          <option value="Acadix.views.fromdate" />
+          <option value="Acadix.models.mother_phone_number" />
+          <option value="Acadix.models.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
