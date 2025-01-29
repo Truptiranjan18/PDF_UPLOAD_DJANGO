@@ -11,4 +11,3 @@ class PDFSTORE(models.Model):
 
     # Field to store the file type
     file_type = models.CharField(max_length=50, default='application/pdf')
-
